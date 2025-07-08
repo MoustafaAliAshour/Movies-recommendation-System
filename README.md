@@ -2,6 +2,13 @@
 
 This is a Streamlit web application that recommends movies to users based on a selected movie. It uses content-based filtering with cosine similarity to suggest the top 5 similar movies and displays their homepage and poster images using TMDb API.
 
+## 🖼 Screenshots
+
+### 🏠 Home Page
+![Home Page](Home-Page.png)
+
+### 📊 Example Recommendation Output
+![Example](Example.png)
 ## 🔍 Features
 
 - 🎥 Movie recommendations based on similarity
