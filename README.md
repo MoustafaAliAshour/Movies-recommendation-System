@@ -31,7 +31,7 @@ After downloading, place all the required files in the same directory as `movie_
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/movie-recommendation-app.git
+git clone https://github.com/MoustafaAliAshour/Movie-recommendation-System.git
 cd movie-recommendation-app
 
 ### 2. Download the Required Files
