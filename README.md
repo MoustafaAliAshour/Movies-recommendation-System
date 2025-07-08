@@ -5,7 +5,7 @@ This is a Streamlit web application that recommends movies to users based on a s
 ## 🖼 Screenshots
 
 ### 🏠 Home Page
-![Home Page](Home Page.jpg)
+![Home Page](HomePage.jpg)
 
 ### 📊 Example Recommendation Output
 ![Example](Example.jpg)
