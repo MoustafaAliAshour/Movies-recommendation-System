@@ -49,8 +49,11 @@ Make sure the following files are placed in the same folder as the Python app:
 
 movies.csv
 
-similarity.pkl
+movies_clened.xlsx
 
+movie_list.pkl
+
+tfidf_matrix.plk
 ### 3. Install Dependencies
 
 pip install pandas scikit-learn streamlit requests
@@ -58,28 +61,7 @@ pip install pandas scikit-learn streamlit requests
 ### 4. Run the App
 
 streamlit run movie_recommendation_app.py
-🔑 TMDb API Key Setup
-To fetch movie posters, you need a TMDb API key:
 
-Sign up at TMDb
-
-Go to your account settings → API → Get API Key
-
-Replace "your_api_key" in the script with your actual key:
-
-
-api_key = "your_actual_tmdb_api_key"
-
-## 🧠 How It Works
-Reads movie metadata from movies.csv
-
-Uses cosine similarity (from similarity.pkl) to find the 5 most similar movies
-
-For each recommended movie:
-
-Fetches the poster using TMDb API
-
-Shows its homepage link
 
 ## 📌 To-Do
 Add user ratings & collaborative filtering
