@@ -5,10 +5,10 @@ This is a Streamlit web application that recommends movies to users based on a s
 ## 🖼 Screenshots
 
 ### 🏠 Home Page
-![Home Page](Home-Page.png)
+![Home Page](Home-Page.jpg)
 
 ### 📊 Example Recommendation Output
-![Example](Example.png)
+![Example](Example.jpg)
 ## 🔍 Features
 
 - 🎥 Movie recommendations based on similarity
